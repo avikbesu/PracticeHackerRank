@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/avikbesu"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 22 solutions to Hackerrank practice problems with Python 3, scala and mysql.
+This repository contains 21 solutions to Hackerrank practice problems with Python 3, scala and mysql.
 
 Updated frequently :) If it was helpful please press a star.
 
@@ -10,8 +10,16 @@ Updated frequently :) If it was helpful please press a star.
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/avikbesu/PracticeHackerRank.svg)](https://github.com/avikbesu/PracticeHackerRank) 
 [![GitHub stars](https://img.shields.io/github/stars/avikbesu/PracticeHackerRank.svg)](https://github.com/avikbesu/PracticeHackerRank)
 
-- .github
-    workflows
+- Prepare By Topics
+    1. Prapare SQL (mysql)
+        - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
+        - Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/002.%20Revising%20the%20Select%20Query%20II.sql) | Score: 10
+        - Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/003.%20Select%20All.sql) | Score: 10
+        - Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/004.%20Select%20By%20ID.sql) | Score: 10
+        - Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/005.%20Japanese%20Cities'%20Attributes.sql) | Score: 10
+        - Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/006.%20Japanese%20Cities'%20Names.sql) | Score: 10
+        - Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/007.%20Weather%20Observation%20Station%201.sql) | Score: 15
+        - Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/008.%20Weather%20Observation%20Station%203.sql) | Score: 10
 - Tutorials
     1. 30 Days of Code (scala)
         - Day 0 - Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/001.%20Day%200%20-%20Hello,%20World.scala) | Score: 30
@@ -27,12 +35,3 @@ Updated frequently :) If it was helpful please press a star.
         - Day 10 - Binary Numbers | [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/011.%20Day%2010%20-%20Binary%20Numbers.scala) | Score: 30
         - Day 11 - 2D Arrays | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/012.%20Day%2011%20-%202D%20Arrays.scala) | Score: 30
         - Day 17 - More Exceptions | [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/013.%20Day%2017%20-%20More%20Exceptions.scala) | Score: 30
-    2. Prapare SQL (mysql)
-        - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
-        - Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/002.%20Revising%20the%20Select%20Query%20II.sql) | Score: 10
-        - Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/003.%20Select%20All.sql) | Score: 10
-        - Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/004.%20Select%20By%20ID.sql) | Score: 10
-        - Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/005.%20Japanese%20Cities'%20Attributes.sql) | Score: 10
-        - Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/006.%20Japanese%20Cities'%20Names.sql) | Score: 10
-        - Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/007.%20Weather%20Observation%20Station%201.sql) | Score: 15
-        - Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/2.%20Prapare%20SQL%20(mysql)/008.%20Weather%20Observation%20Station%203.sql) | Score: 10
