@@ -1,0 +1,20 @@
+name: CI
+on: push
+permissions:
+  contents: write
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create report file
+        run: python3 automated_readme_generator.py
+      - name: Commit readme
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "Git Bot"
+          now=$(date "+%Y-%m-%dT%H:%M:%S%z")
+          git commit -am "Updated Readme at $now"
+          git push
+          
