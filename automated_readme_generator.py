@@ -5,7 +5,7 @@ import functools
 def getFoldersNames(path):
     folders = []
     for item in os.listdir(path):
-        if not os.path.isfile(item) and item not in ('.git', '.idea', '.vscode', '.metals'):
+        if not os.path.isfile(item) and item not in ('.git', '.idea', '.vscode', '.metals', '.github'):
             folders.append(item)
     return folders
 
