@@ -10,6 +10,8 @@ Updated frequently :) If it was helpful please press a star.
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/avikbesu/PracticeHackerRank.svg)](https://github.com/avikbesu/PracticeHackerRank) 
 [![GitHub stars](https://img.shields.io/github/stars/avikbesu/PracticeHackerRank.svg)](https://github.com/avikbesu/PracticeHackerRank)
 
+- .github
+    workflows
 - Tutorials
     1. 30 Days of Code (scala)
         - Day 0 - Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/001.%20Day%200%20-%20Hello,%20World.scala) | Score: 30
