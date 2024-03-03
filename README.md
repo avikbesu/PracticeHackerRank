@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/avikbesu"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 21 solutions to Hackerrank practice problems with Python 3, scala and mysql.
+This repository contains 28 solutions to Hackerrank practice problems with Python 3, scala and mysql.
 
 Updated frequently :) If it was helpful please press a star.
 
@@ -20,6 +20,13 @@ Updated frequently :) If it was helpful please press a star.
         - Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/006.%20Japanese%20Cities'%20Names.sql) | Score: 10
         - Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/007.%20Weather%20Observation%20Station%201.sql) | Score: 15
         - Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/008.%20Weather%20Observation%20Station%203.sql) | Score: 10
+        - Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/009.%20Weather%20Observation%20Station%204.sql) | Score: 10
+        - Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/010.%20Weather%20Observation%20Station%205.sql) | Score: 30
+        - Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/011.%20Weather%20Observation%20Station%206.sql) | Score: 10
+        - Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/012.%20Weather%20Observation%20Station%207.sql) | Score: 10
+        - Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/013.%20Weather%20Observation%20Station%208.sql) | Score: 15
+        - Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/014.%20Weather%20Observation%20Station%209.sql) | Score: 10
+        - Weather Observation Station 10 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/015.%20Weather%20Observation%20Station%2010.sql) | Score: 10
 - Tutorials
     1. 30 Days of Code (scala)
         - Day 0 - Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/001.%20Day%200%20-%20Hello,%20World.scala) | Score: 30
