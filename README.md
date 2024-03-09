@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/avikbesu"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 33 solutions to Hackerrank practice problems with Python 3, scala and mysql.
+This repository contains 38 solutions to Hackerrank practice problems with Python 3, scala and mysql.
 
 Updated frequently :) If it was helpful please press a star.
 
@@ -32,6 +32,11 @@ Updated frequently :) If it was helpful please press a star.
         - Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/018.%20Higher%20Than%2075%20Marks.sql) | Score: 15
         - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/019.%20Employee%20Names.sql) | Score: 10
         - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/020.%20Employee%20Salaries.sql) | Score: 10
+        - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/021.%20Type%20of%20Triangle.sql) | Score: 20
+        - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/022.%20The%20PADS.sql) | Score: 30
+        - Occupations | [Problem](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/023.%20Occupations.sql) | Score: 30
+        - Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/024.%20Binary%20Tree%20Nodes.sql) | Score: 30
+        - New Companies | [Problem](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Prepare%20By%20Topics/1.%20Prapare%20SQL%20(mysql)/025.%20New%20Companies.sql) | Score: 30
 - Tutorials
     1. 30 Days of Code (scala)
         - Day 0 - Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/avikbesu/PracticeHackerRank/blob/master/Tutorials/1.%2030%20Days%20of%20Code%20(scala)/001.%20Day%200%20-%20Hello,%20World.scala) | Score: 30
